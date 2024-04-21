@@ -1,2 +1,5 @@
-# React-crud-json-server
-React project for crud app
+# React CRUD App
+# C : Create
+# R : Read
+# U : Update
+# D : Delete
