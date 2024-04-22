@@ -1,1 +1,28 @@
-
+{
+  "html": [
+    {
+      "id": "1",
+      "name": "tushar",
+      "email": "tushar@gmail.com",
+      "city":"Meerut"
+    },
+    {
+      "id": "2",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+       "city":"Meerut"
+    },
+    {
+      "id": "3",
+      "name": "shivam",
+      "email": "shivam@gmail.com",
+       "city":"Meerut"
+    },
+    {
+      "id":"4",
+      "name":"rajat",
+      "email":"rajat@gmail.com",
+      "city":"Meerut"
+    }
+  ]
+}
