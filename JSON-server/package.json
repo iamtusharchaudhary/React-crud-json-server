@@ -1,1 +1,17 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "API data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json": "json-server --watch index.json --port 4000"
+  },
+  "author": "Tushar",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {}
+}
 
