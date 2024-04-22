@@ -7,3 +7,7 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
+<hr/>
+
+# Learn More
+You can learn more in the Create React App documentation.
