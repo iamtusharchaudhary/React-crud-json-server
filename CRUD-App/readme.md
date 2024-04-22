@@ -10,4 +10,4 @@ npm start
 <hr/>
 
 # Learn More
-You can learn more in the Create React App documentation.
+You can learn more in the [React App Documentation](https://legacy.reactjs.org/docs/getting-started.html)
